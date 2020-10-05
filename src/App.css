@@ -7,9 +7,9 @@ h1 {
   text-transform: uppercase;
 }
 
-.app-title {
+/* .app-title {
   font-size: 3em;
-}
+} */
 
 .loading {
   text-align: center;
@@ -20,3 +20,4 @@ h1 {
   min-width: 250px;
   margin-bottom: 1.25em;
 }
+
