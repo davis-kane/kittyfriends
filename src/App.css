@@ -6,3 +6,17 @@ h1 {
   color: #dfe6e9;
   text-transform: uppercase;
 }
+
+.app-title {
+  font-size: 3em;
+}
+
+.loading {
+  text-align: center;
+}
+
+.searchbar {
+  width: 25%;
+  min-width: 250px;
+  margin-bottom: 1.25em;
+}
