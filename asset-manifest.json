@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kittyfriends/static/css/main.1cd073f0.chunk.css",
-    "main.js": "/kittyfriends/static/js/main.9e90399a.chunk.js",
-    "main.js.map": "/kittyfriends/static/js/main.9e90399a.chunk.js.map",
+    "main.js": "/kittyfriends/static/js/main.1142a131.chunk.js",
+    "main.js.map": "/kittyfriends/static/js/main.1142a131.chunk.js.map",
     "runtime-main.js": "/kittyfriends/static/js/runtime-main.9eac5891.js",
     "runtime-main.js.map": "/kittyfriends/static/js/runtime-main.9eac5891.js.map",
     "static/css/2.3c03f26f.chunk.css": "/kittyfriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.73608afc.chunk.js": "/kittyfriends/static/js/2.73608afc.chunk.js",
     "static/js/2.73608afc.chunk.js.map": "/kittyfriends/static/js/2.73608afc.chunk.js.map",
     "index.html": "/kittyfriends/index.html",
-    "precache-manifest.0e47640dbafd905a7d606134248681a2.js": "/kittyfriends/precache-manifest.0e47640dbafd905a7d606134248681a2.js",
+    "precache-manifest.e6bc33f60bb628c1c443ee0cd92f26d3.js": "/kittyfriends/precache-manifest.e6bc33f60bb628c1c443ee0cd92f26d3.js",
     "service-worker.js": "/kittyfriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/kittyfriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.1cd073f0.chunk.css.map": "/kittyfriends/static/css/main.1cd073f0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.73608afc.chunk.js",
     "static/css/main.1cd073f0.chunk.css",
-    "static/js/main.9e90399a.chunk.js"
+    "static/js/main.1142a131.chunk.js"
   ]
 }
